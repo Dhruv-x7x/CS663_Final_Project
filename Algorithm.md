@@ -7,3 +7,12 @@
 - **Huffman Encoding**: This is a greedy algorithm, producing the least average bit length for a prefix-free encoding. For DC, we take their differences and run Huffman on that, while for AC, we directly run Huffman.
 - **Writing to file**: I have added all of the important information including the dictionaries and bitstreams in the header for my files along with the quality factor.
 - **Decoding**: The inverse of each of the above steps is computed, and the image is reconstructed and trimmed to meet the original shape.
+
+
+With my implementation, I faced several bad aspects. Most importantly, the computation
+time was significant. Also, the presence of block-seam artifacts as well as ringing artifacts.
+Evidently, the algorithm does not work well on edges and corner features within an image.
+Also, the fact that we have to store the bitstream, quantization matrix, and Huffman
+dictionaries in the header for the files increases their size substantially. I assume that
+machine learning methods for performing compression will be more efficient, especially if
+parallel processing is applied to them.
