@@ -3,4 +3,4 @@
 
 ---
 
-I used two different functions to write the encoded image into file. One was used for the decoding part and the other was used to evaluate BPP. The reason for doing this is that in the former, the metadata was too large and it skewed the RMSE vs BPP results. In the latter, the encoded bitstream only includes the information that is absolutely necessary to decode the image, reducing the metadata and giving correct BPP results. With the latter function I was able to get results that closely matched OpenCV's compression algorithm although it wasn't as good since mine is a more naive implementation.
+This project was completed as a part of a course CS663 Digital Image Processing. The code is written in python and in a modular format. To write and read the compressed files I have written my own method. The necessary references have been given at the end of the file.
