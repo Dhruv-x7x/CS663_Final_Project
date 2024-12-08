@@ -7,12 +7,12 @@ The images were of the '.tiff' format and I simulated my algorithm on 8 aerial i
 ---
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
-  <img src="Images/2.1.01.tiff" alt="Image 1" width="200" />
-  <img src="Images/2.1.03.tiff" alt="Image 2" width="200" />
-  <img src="Images/2.1.04.tiff" alt="Image 3" width="200" />
-  <img src="Images/2.1.05.tiff" alt="Image 4" width="200" />
-  <img src="Images/2.1.06.tiff" alt="Image 5" width="200" />
-  <img src="Images/2.1.07.tiff" alt="Image 6" width="200" />
-  <img src="Images/2.1.08.tiff" alt="Image 7" width="200" />
-  <img src="Images/2.1.09.tiff" alt="Image 8" width="200" />
+  <img src="Images/2.1.01.jpg" alt="Image 1" width="200" />
+  <img src="Images/2.1.03.jpg" alt="Image 2" width="200" />
+  <img src="Images/2.1.04.jpg" alt="Image 3" width="200" />
+  <img src="Images/2.1.05.jpg" alt="Image 4" width="200" />
+  <img src="Images/2.1.06.jpg" alt="Image 5" width="200" />
+  <img src="Images/2.1.07.jpg" alt="Image 6" width="200" />
+  <img src="Images/2.1.08.jpg" alt="Image 7" width="200" />
+  <img src="Images/2.1.09.jpg" alt="Image 8" width="200" />
 </div>
