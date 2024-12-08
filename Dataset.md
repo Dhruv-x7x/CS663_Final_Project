@@ -12,7 +12,7 @@ The images were of the '.tiff' format and I simulated my algorithm on 8 aerial i
   <img src="Images/2.1.04.jpg" alt="Image 3" width="200" />
   <img src="Images/2.1.05.jpg" alt="Image 4" width="200" />
   <img src="Images/2.1.06.jpg" alt="Image 5" width="200" />
-  <img src="Images/2.1.07.jpg" alt="Image 6" width="200" />
+  <img src="Images/2.1.10.jpg" alt="Image 6" width="200" />
   <img src="Images/2.1.08.jpg" alt="Image 7" width="200" />
   <img src="Images/2.1.09.jpg" alt="Image 8" width="200" />
 </div>
